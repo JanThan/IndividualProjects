@@ -1,0 +1,3 @@
+# purpose to open urls from a python script remotely. 
+# python script will read this page and load the urls below
+# urls can be changed within this page and will remotely affect those in the python script
