@@ -2,7 +2,7 @@
 # python script will read this page and load the urls below
 # urls can be changed within this page and will remotely affect those in the python script
 
-#STARTING
+#STARTING1
 url = https://www.shitpostbot.com/img/sourceimages/were-doomed-5925612aba59a.jpeg
 url = https://www.shitpostbot.com/img/sourceimages/keanu-pizza-58afbec9df503.jpeg
 #ENDING
